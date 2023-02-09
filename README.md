@@ -1,2 +1,2 @@
-# learn-basic-css-by-building-a-cafe-menu
+# basic-css-building-a-cafe-menu
 Praticando Css
